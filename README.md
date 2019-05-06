@@ -1,1 +1,1 @@
-# fabric-sdk-go-ext
+# fabric-sdk-go-ext [![Build Status](https://travis-ci.com/trustbloc/fabric-sdk-go-ext.svg?branch=master)](https://travis-ci.com/trustbloc/fabric-sdk-go-ext)
